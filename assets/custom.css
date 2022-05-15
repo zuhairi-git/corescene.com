@@ -22,7 +22,7 @@
 
 .section-separator {
   width: 60%;
-  border-bottom: 1px dashed #e4e4e4 ;
+  border-bottom: 0.1em dashed #cecece ;
   margin: auto;
   align-items: center;
   margin: 2rem auto 2rem;
