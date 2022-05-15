@@ -22,8 +22,8 @@
 
 .section-separator {
   width: 60%;
+  border-bottom: 1px dashed #e4e4e4 ;
   margin: auto;
   align-items: center;
   margin: 2rem auto 2rem;
-  background-color: #d1d1d1;
 }
