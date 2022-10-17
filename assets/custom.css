@@ -1,0 +1,29 @@
+/* Added by Ali 05-05-22 */
+/* Color variables  color: var(--theme-base-color); */
+:root {
+  --theme-base-color: #007bff;
+  --theme-base-color-outline: #007bff;
+  --theme-base-color-fill: #007bff;
+  --theme-base-color-opacity: #007bff40;
+  --theme-base-color-text: #fff;
+  --theme-base-bg-color: #fff;
+  --theme-base-shaddow: rgba(0, 0, 0, 0.1);
+}
+
+/* Insert Your Custom CSS Here */
+.rounded-custom {
+  border-radius: 2rem !important;
+}
+
+.rounded-custom, .rounded-bg-custom {
+  background-color: white !important;
+  padding: 5px;
+}
+
+.section-separator {
+  width: 60%;
+  border-bottom: 0.1em dashed #cecece ;
+  margin: auto;
+  align-items: center;
+  margin: 2rem auto 2rem;
+}
